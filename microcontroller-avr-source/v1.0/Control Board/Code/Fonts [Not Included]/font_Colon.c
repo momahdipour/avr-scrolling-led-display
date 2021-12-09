@@ -1,0 +1,9 @@
+eeprom unsigned char Colon[5] = {
+4,  //Character column count
+0x00, 0x66, 0x66, 0x00
+};
+
+eeprom unsigned char Colon16[9] = {
+3,  //Character column count
+0x00, 0x00, 0x1C, 0x38, 0x1C, 0x38
+};

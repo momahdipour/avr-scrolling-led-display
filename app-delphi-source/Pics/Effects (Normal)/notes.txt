@@ -1,0 +1,7 @@
+1. Animation size 130x28
+2. Animation color: Blue
+3. Transparency: No
+4. Frame timing: 0.1s
+
+-> Effect1 is not actually an effect into the micro code
+-> Index of Effect2 is 1, Effect3 is 2, etc.

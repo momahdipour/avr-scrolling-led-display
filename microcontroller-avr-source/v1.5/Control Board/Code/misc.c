@@ -1,0 +1,2 @@
+
+#define WDR #asm("wdr")

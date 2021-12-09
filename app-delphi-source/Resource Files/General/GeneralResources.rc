@@ -1,0 +1,15 @@
+PROGRESS_GIF GIF "progress.gif"
+
+SPLASH_GIF GIF "SplashGIF.gif"
+SPLASH_GIF_SUNLIGHT GIF "SplashGIFSunLight.gif"
+
+SPLASH_BACK_NORMAL Bitmap "SplashBackNormal.bmp"
+SPLASH_BACK_SUNLIGHT Bitmap "SplashBackSunLight.bmp"
+
+SOFTWARE_NAME_NORMAL Bitmap "SoftwareNameNormal.bmp"
+SOFTWARE_NAME_SUNLIGHT Bitmap "SoftwareNameSunLight.bmp"
+
+HOURGLASS_CUR ANICURSOR "hourglas.ani"
+HOURSE_CUR ANICURSOR "horse.ani"
+
+WAITFORM_PROGRESS_GIF GIF "WaitFormProgress.gif"
