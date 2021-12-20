@@ -1,4 +1,6 @@
 # AVR Scrolling LED Display
+<b><i><h4>Project originally written in 2008</h4></i></b>
+
 Advanced Scrolling LED Display using AVR microcontrollers
 
 The microcontroler source code simulates a mutithreaded environment to have multiple separate contents displayed simultaneously on different regions on the LED display.
